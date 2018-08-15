@@ -31,3 +31,5 @@ mvnw.cmd
 ### jdbc ###
 */application-dev.yml
 application-dev.yml
+application-dev.properties
+*/application-dev.properties
